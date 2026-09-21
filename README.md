@@ -135,9 +135,15 @@ const ismael: Engineer = {
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmaaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ismael's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsmaaDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ismael's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaaDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=IsmaaDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsmaaDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
